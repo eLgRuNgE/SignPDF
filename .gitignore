@@ -1,0 +1,9 @@
+.DS_Store
+.env/
+.venv/
+__built/*
+__docs/*
+__firmas/*
+__toInstall/*
+acta.pdf
+firma.png
